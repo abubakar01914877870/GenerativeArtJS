@@ -1,4 +1,6 @@
 # GenerativeArtJS
 To run this 
-npm install 
+npm install,
+
+
 canvas-sketch sketch.js --open
